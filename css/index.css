@@ -146,11 +146,14 @@ button:hover{
     nav a{
         font-size: 1.7rem;
     }
+    nav span{
+        border-left:2px solid #626262;
     h1{
     font-size: 4rem;
     line-height: 1;
     margin-bottom:2%;
 }
+
    .title-container button{
         font-size:1.3rem;
         padding: 1% 4%;

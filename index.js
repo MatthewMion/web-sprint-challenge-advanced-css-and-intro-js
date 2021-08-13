@@ -253,7 +253,7 @@ function get20s(array) {
       if(splitBornIn[1] === '9'){
         newArray.push(array[i].name)
       }
-      }   
+     }   
   return newArray;
 }
 
